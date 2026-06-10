@@ -36,5 +36,6 @@ Make sure you have Python 3.10+ installed. Install the required system modules v
 pip install vosk python-osc sounddevice tkinter
 
 (If the pip command fails use this)
+
 ```bash
 py -m pip install vosk python-osc sounddevice tkinter
